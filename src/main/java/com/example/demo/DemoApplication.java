@@ -24,7 +24,7 @@ public class DemoApplication {
 
         @GetMapping
         Map<String, String> message() {
-            return Collections.singletonMap("message", message);
+            return Collections.singletonMap("messagezfezfe", message);
         }
     }
 
